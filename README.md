@@ -1,4 +1,4 @@
-###Hello, I'm Line [liːnɛ]
+### Hello, I'm Line [liːnɛ] 👋
 
 <img src="line.jpg" alt="Line skiing" width=300 align="right" />
 
@@ -6,7 +6,7 @@ I am very excited to embark on a new challenge in the tech industry. I have been
 
 My goal in the next year is to work on challenging problems in a professional capacity and continue to learn at a rapid pace.
 
-###🛠 &nbsp;Skills
+### Skills 🛠
 
 - Python
 - JavaScript
@@ -16,6 +16,4 @@ My goal in the next year is to work on challenging problems in a professional ca
 - SQL
 - Bootstrap
 
-#
-
-📫 Follow me on [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](http://www.linkedin.com/in/linekjohnsen)
+📫 You can reach me on [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](http://www.linkedin.com/in/linekjohnsen)
